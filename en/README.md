@@ -1,5 +1,4 @@
 # Script for Creating and Managing QEMU/KVM Virtual Machines
-[Русская версия](../README.md)
 
 This project provides an interactive Bash script (`install.sh`) that automates the process of creating, configuring, and launching virtual machines (VMs) using QEMU/KVM. The script generates portable and easy-to-use files for VM installation and subsequent startup.
 
